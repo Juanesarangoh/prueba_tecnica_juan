@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nombres": "Juan",
+    "apellidos": "Arango",
+    "tipoDocumento": "CC",
+    "numeroDocumento": "12345669",
+    "celular": "3124684544",
+    "convenio": "convenio1",
+    "coordinador": "coordinador2",
+    "password": "Juan",
+    "centroCostos": "01",
+    "documentoAliado": "12345",
+    "nombreAliado": "Pepito",
+    "roles": [
+      "aprobador"
+    ]
+  }
+]
